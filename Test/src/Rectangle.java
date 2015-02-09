@@ -6,7 +6,7 @@
 -	высота не задана (равно ширине) создаём квадрат
 -	создаём копию другого прямоугольника (он и передаётся в параметрах)
 */
-public class Rectangle {
+public class Rectangle  {
 	public int top;
 	public int left;
 	public int width;

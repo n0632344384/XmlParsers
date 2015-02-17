@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shop>
+    <goods id="0">
+        <name>Good1</name>
+        <price>100.0</price>
+        <category>category1</category>
+        <description>description1</description>
+    </goods>
+    <goods id="1">
+        <name>Good2</name>
+        <price>200.0</price>
+        <category>category2</category>
+        <description>description2</description>
+    </goods>
+    <goods id="2">
+        <name>Good3</name>
+        <price>300.0</price>
+        <category>category3</category>
+        <description>description3</description>
+    </goods>
+</shop>
